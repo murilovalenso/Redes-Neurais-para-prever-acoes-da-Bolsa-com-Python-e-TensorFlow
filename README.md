@@ -1,4 +1,5 @@
 # Prevendo-Acoes-da-Bolsa-com-Redes-Neurais
+## Redes Neurais com Python e TensorFlow/Keras
 
 <h1 align="center">
 <img src="https://img.shields.io/static/v1?label=REDES%20NEURAIS%20ARTIFICIAIS%20POR&message=MURILO%20DE%20ALMEIDA&color=7159c1&style=flat-square&logo=ghost"/>
